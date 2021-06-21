@@ -2,19 +2,33 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "*About this site*",
+      "description": "My name is **Bryan Li**",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-20T14:30:00-04:00"
+      "contents": "\nAbout Me\nAbout the project\nThis is title\nGoals\nI want to do good +THis is not fun “This is data science”\n~Preceptor\n[Kanes Free High SChool Data Science Bootcamp(https://bootcamp.davidkane.info/)]\n\n\n\n",
+      "last_modified": "2021-06-20T20:35:06-04:00"
     },
     {
       "path": "index.html",
       "title": "Title of My Final Project",
       "description": "This is where I will describe my final project",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-20T14:31:47-04:00"
+      "contents": "\n\n\n\n\n\n\n",
+      "last_modified": "2021-06-20T20:35:12-04:00"
+    },
+    {
+      "path": "sources.html",
+      "title": "Sources",
+      "description": "An overview of sources used in my project.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n“This is where I will describe what sources I used and why I chose them. I may also discuss any broad challenges I faced while finding sources.”\n\n\n\n",
+      "last_modified": "2021-06-20T20:35:13-04:00"
     }
   ],
   "collections": []

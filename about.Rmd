@@ -1,10 +1,23 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "*About this site*"
+description: "My name is **Bryan Li**"
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+## About the project
+This is title
+
+
+
+## Goals
+*I want to do good
+  +*THis is not fun
+  "This is data science"  
+  ~Preceptor
+  
+  [Kanes Free High SChool Data Science Bootcamp(https://bootcamp.davidkane.info/)]
